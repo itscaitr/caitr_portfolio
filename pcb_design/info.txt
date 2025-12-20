@@ -1,0 +1,4 @@
+This repository contains various printable circuit board designs (PCB designs), 
+some created for the Cornell Mars Rover project team, and others made on my own.
+
+All PCB designs were made with Kicad version 9.X. Firmware (if applicable) is saved in the firmware folder.
