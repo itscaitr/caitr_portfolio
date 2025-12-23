@@ -1,0 +1,5 @@
+This folder contains firmware written for various printable circuit boards (PCBs), primarily written with the STM32CubeIDE. 
+
+Firmware is divided by board, and if there are corresponding hostside scripts, those are included both with the firmware and in the "scripts" folder.
+
+A summary of each board's function is included in their folder. 
