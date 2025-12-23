@@ -1,0 +1,12 @@
+This board was developed for the Cornell Mars Rover project team. 
+
+While the PCB design was created by another member, I wrote the board firmware and the Python script used to collect data.
+
+The board functions as follows:
+
+A sample is fed through a notch in the board past a photodiode, which collects data sent back to the board's microcontroller. 
+The board translates that data into voltage then sends each sample to the host computer via CAN. 
+The Python script then decodes that message and stores each data point in a .csv file.
+
+This board is currently optimized for testing purposes, which is why there are no start/stop signals. 
+For competition, data collection will be optimized for quick analysis. 
