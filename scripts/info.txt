@@ -1,0 +1,3 @@
+This folder contains various scripts I've written, primarily for printable circuit boards, using VSCode.
+
+If there is a corresponding board/firmware, I've made a note in the summary file for each project.
