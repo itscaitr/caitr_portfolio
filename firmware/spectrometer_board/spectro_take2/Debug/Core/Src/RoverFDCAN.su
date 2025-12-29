@@ -1,0 +1,4 @@
+../Core/Src/RoverFDCAN.c:14:19:FDCAN_Init	16	static
+../Core/Src/RoverFDCAN.c:26:19:FDCAN_Init_Filter	24	static
+../Core/Src/RoverFDCAN.c:39:6:HAL_FDCAN_RxFifo0Callback	16	static
+../Core/Src/RoverFDCAN.c:50:19:FDCAN_Transmit	64	static
