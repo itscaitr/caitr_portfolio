@@ -2,6 +2,9 @@ This board was developed for the Cornell Mars Rover project team.
 
 While the PCB design was created by another member, I wrote the board firmware and the Python script used to collect data.
 
+The board firmware is stored in the folder "spectro_take2".
+The python script is the file "spectrometer_collection.py". 
+
 The board functions as follows:
 
 A sample is fed through a notch in the board past a photodiode, which collects data sent back to the board's microcontroller. 
